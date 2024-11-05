@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 👋 Hi, I'm a passionate Software Developer with a knack for building dynamic and responsive web applications. With over 3 years of experience in Angular, JavaScript, React, Node.js, and Python, 
 I’m constantly exploring new technologies to enhance my skill set.
 
@@ -8,4 +8,4 @@ I’m constantly exploring new technologies to enhance my skill set.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-mariya-raphy-489b2817b/) or [mailto:divyam.sheen@gmail.com)
 
--->
+
