@@ -7,5 +7,21 @@ I’m constantly exploring new technologies to enhance my skill set.
 💼 Currently open to new opportunities. I’d love to connect if you’re looking for a dedicated developer ready to contribute to impactful projects.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/divya-mariya-raphy-489b2817b/) or [mailto:divyam.sheen@gmail.com)
+Languages:
+HTML CSS Javascript.com Pyhton Typescript
 
+Frameworks, Platforms, Libraries:
+NodeJS Angular React.js SASS Bootstrap React Router Vite NPM WordPress NumPy Pandas Express.js ReactApp
+
+Hosting
+GithubPages Render
+
+IDEs
+Visual Studio Code PyCharm
+
+OS
+Windows Ubuntu
+
+Backend
+MongoDB
 
